@@ -4,7 +4,7 @@ cffi==1.12.3
 Click==7.0
 dnspython==1.16.0
 email-validator==1.0.4
-fastapi==0.33.0
+fastapi==0.65.2
 h11==0.8.1
 idna==2.8
 passlib==1.7.1
